@@ -27,4 +27,3 @@
 ⚠️ Wenn eine Person nichts zu der Prüfungsleistung beigetragen hat (und dementsprechend keinen Commit im Repository gemacht hat)
 
 ⚠️ Wenn die Prüfungsleistung nicht selber gemacht wurde (heißt auch, wenn sie von einer AI entwickelt wurde!)
-

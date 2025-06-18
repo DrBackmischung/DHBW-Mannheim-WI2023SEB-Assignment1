@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "amqp-connection-manager": "^4.0.0",
+    "tplink-bulbs": "^1.0.1",
+    "tplink-cloud-api": "^0.8.1"
+  },
+  "type": "module"
+}
